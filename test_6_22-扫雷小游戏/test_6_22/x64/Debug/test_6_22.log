@@ -1,0 +1,7 @@
+﻿  game.c
+  test.c
+D:\code\2024\test_6_22\test_6_22\game.c(3,6): warning C4029: 声明的形参表不同于定义
+D:\code\2024\test_6_22\test_6_22\test.c(18,36): warning C4020: “InitBoard”: 实参太多
+D:\code\2024\test_6_22\test_6_22\test.c(19,36): warning C4020: “InitBoard”: 实参太多
+  正在生成代码...
+  test_6_22.vcxproj -> D:\code\2024\test_6_22\x64\Debug\test_6_22.exe
